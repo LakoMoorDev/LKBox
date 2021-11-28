@@ -15,10 +15,10 @@
 ### Building ReadMe
 [Building](docs/README.MD)
 
-### Game template
+### Games
 A game template repository can be found here:
 
-**WIP**
+![LKGame](https://github.com/LakoMoorDev/LKGame)
 
 ## State
 A Work-In-Progress.
