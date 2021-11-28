@@ -76,6 +76,8 @@ set_target_properties(LKBox PROPERTIES SOVERSION 1)
 
 set_target_properties(LKBox PROPERTIES PUBLIC_HEADER include/LKBox/Core.h)
 
+set_target_properties(LKBox PROPERTIES PREFIX "")
+
 #install(TARGETS mylib
  #   LIBRARY DESTINATION ${CMAKE_INSTALL_LIBDIR}
  #   PUBLIC_HEADER DESTINATION ${CMAKE_INSTALL_INCLUDEDIR})
