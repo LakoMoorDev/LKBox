@@ -11,7 +11,7 @@
 #### Clone the repository 
 Open Git
 ```shell
-git clone https://github.com/LakoMoor/LKBox.git
+git clone https://github.com/LakoMoorDev/LKBox.git
 ```
 #### Quick start engine setup
 ```shell
