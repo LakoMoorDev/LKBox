@@ -1,4 +1,4 @@
-// Copyright © LakoMoor Dev. Contacts: <lakomoor.development@gmail.com>
+// Copyright © LakoMoor Dev Contacts: <lakomoor.development@gmail.com>
 
 #include "../../../../LKBox/include/LKBox/Core.h"
 //#include "../../../../LKBox/include/LKBox/Debug.h"
